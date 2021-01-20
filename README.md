@@ -1,2 +1,2 @@
 # ReportofSports-injuryAppPrivacyPolicy
-スポーツ外傷レポートアプリ iOS
+スポーツ外傷レポートアプリ iOSのプライバシーポリシー
